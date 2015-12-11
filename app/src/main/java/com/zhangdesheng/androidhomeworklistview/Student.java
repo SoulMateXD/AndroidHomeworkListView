@@ -1,5 +1,7 @@
 package com.zhangdesheng.androidhomeworklistview;
 
+import android.view.View;
+
 /**
  * Created by Administrator on 2015/12/10.
  */
